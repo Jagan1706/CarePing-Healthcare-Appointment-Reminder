@@ -35,7 +35,7 @@ This project was developed as a learning and demonstration project to practice P
 
 ### Appointments
 
-![CarePing Appointments](./screenshots/Appointments.png)
+![CarePing Appointments](./screenshots/Appoinments.png)
 
 ### Records
 
